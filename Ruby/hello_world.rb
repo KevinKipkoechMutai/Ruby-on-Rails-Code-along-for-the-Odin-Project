@@ -27,3 +27,8 @@ puts 'hello world!'
  #sub
 
  "heggo".gsub("g", "l")
+
+ puts "Hello"; puts " world!"
+
+ #new_string = gets.chomp
+ #puts new_string
